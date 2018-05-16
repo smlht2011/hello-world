@@ -1,9 +1,10 @@
-Ãö°È¥D¾÷:139.223.3.157  user:bdadmin  password:cds1Tatung
-imis web¥D¾÷:139.223.15.91  user:administrator  password:welcomehome91
+edit by feature branch  5/16
+é—œå‹™ä¸»æ©Ÿ:139.223.3.157  user:bdadmin  password:cds1Tatung
+imis webä¸»æ©Ÿ:139.223.15.91  user:administrator  password:welcomehome91
 
-tamis2 ±`¥Î±b¤á:
+tamis2 å¸¸ç”¨å¸³æˆ¶:
     tamis2ws --->Ws168Mis
-SAP OSS ±b¸¹¦p¤U: 
+SAP OSS å¸³è™Ÿå¦‚ä¸‹: 
 Web Site: https://service.sap.com
 ID: S0008444564  1028@Sml 3672smlht 3672tamis Tatung168
 
@@ -14,9 +15,9 @@ vs2010
 
 -----139.223.3.232 b2b ----tamis2ap
 -----139.223.35.164    --- win server 2008
------«n¤s  C367200A
+-----å—å±±  C367200A
 
--------------¥_§ë¼t¥D¾÷ºô°ìMIS
+-------------åŒ—æŠ•å» ä¸»æ©Ÿç¶²åŸŸMIS
 administrator  Sang1uine
 
 --------------tcz
