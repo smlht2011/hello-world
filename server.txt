@@ -1,0 +1,56 @@
+關務主機:139.223.3.157  user:bdadmin  password:cds1Tatung
+imis web主機:139.223.15.91  user:administrator  password:welcomehome91
+
+tamis2 常用帳戶:
+    tamis2ws --->Ws168Mis
+SAP OSS 帳號如下: 
+Web Site: https://service.sap.com
+ID: S0008444564  1028@Sml 3672smlht 3672tamis Tatung168
+
+----139.223.35.34 hyper-v & vs2010
+administrator  p@s$Word
+
+vs2010
+
+-----139.223.3.232 b2b ----tamis2ap
+-----139.223.35.164    --- win server 2008
+-----南山  C367200A
+
+-------------北投廠主機網域MIS
+administrator  Sang1uine
+
+--------------tcz
+192.168.136.35  
+windows user for dbackup: tamisbackup
+           password: tczdbbk
+
+sql user: tamisop
+  password: tczdbop2012 
+
+---------------tamisap wi-fi
+admin --->95smlht
+key:259252523672
+---------------------------
+sap sofeware download
+ID=sapfans
+PW=sapfans@3355
+
+---------------------------
+139.223.3.193
+ID=administrator	
+PW=Tatung161688
+db=Kpidev user=KPIDEV pwd=sap168Kpi
+db=KpiDB1 user=tamis  pwd=kpi2013@tatung
+------------------------
+sap dev010  twimgpp 1028tamis
+    prd888  twimgpp 3672smlht
+---------------------New ip -------------
+139.223.15.67 eric new pc(chengwen)
+139.223.15.63 meeting
+139.223.15.84 vm for 2003
+139.223.15.94 myPC 
+139.223.15.72  scrum
+139.223.15.70  35.34
+139.223.15.69  ausu PC(joe)
+
+
